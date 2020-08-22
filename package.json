@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx eleventy",
+    "serve": "npx eleventy --serve",
+    "debug": "DEBUG=* npx eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaofeng-hall/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaofeng-hall/blog/issues"
+  },
+  "homepage": "https://github.com/zhaofeng-hall/blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "moment": "^2.27.0"
+  }
+}
