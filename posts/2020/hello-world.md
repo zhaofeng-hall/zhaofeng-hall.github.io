@@ -2,7 +2,7 @@
 layout: post-layout.njk 
 title: Hello world, and some thoughts about the blog
 date: 2020-08-25
-tags: ['post']
+tags: ['中文']
 ---
 <!-- Excerpt Start -->
 Hello world!
